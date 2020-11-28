@@ -25,9 +25,9 @@ In this project, I have created a **Casino DApp** where users can bet money for 
 The Dapp is good to go !
  
 ## Deployed Addresses
-Documented here 👉 [deployed_addresses.md](deployed_addresses.md)
+Link : [deployed_addresses.md](deployed_addresses.md)
 ## Avoiding Common Attacks
-Document: [avoiding_common_attacks.md](avoiding_common_attacks.md)
+Link : [avoiding_common_attacks.md](avoiding_common_attacks.md)
 
 ## Video Link
 Youtube : https://youtu.be/OvUvCRF1bfY
