@@ -1,0 +1,25 @@
+{
+  "name": "my-casino",
+  "version": "1.0.0",
+  "description": "ethereum based casino game",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreshth5625/My-Ethereum-Casino.git"
+  },
+  "author": "Shreshth Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreshth5625/My-Ethereum-Casino/issues"
+  },
+  "homepage": "https://github.com/Shreshth5625/My-Ethereum-Casino#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.1"
+  }
+}
