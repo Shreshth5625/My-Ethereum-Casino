@@ -33,11 +33,11 @@ contract ('MyCasinoContract', function(accounts){
     // });
     
     //TEST CASE 4 : Check the maximum number of bets
-    it('Check maximum bets', function () {
-        return myCasinoInstance.then( function(instance){
-            assert(myCasinoInstance.maxBets == expectedMaxbet, "Maximum bets are not 10")
-        })
-    })
+    // it('Check maximum bets', function () {
+    //     return myCasinoInstance.then( function(instance){
+    //         assert(myCasinoInstance.maxBets == expectedMaxbet, "Maximum bets are not 10")
+    //     })
+    // })
     
     
 
