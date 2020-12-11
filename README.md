@@ -28,6 +28,8 @@ The Dapp is good to go !
 Link : [deployed_addresses.md](deployed_addresses.md)
 ## Avoiding Common Attacks
 Link : [avoiding_common_attacks.md](avoiding_common_attacks.md)
+## Design Pattern Decisions
+Link : [design_pattern_decisions.md](design_pattern_decisions.md)
 
 ## Video Link
 Youtube : https://youtu.be/OvUvCRF1bfY

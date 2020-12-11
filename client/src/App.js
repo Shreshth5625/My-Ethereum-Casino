@@ -89,7 +89,9 @@ class App extends Component {
 
                         <h2>Choose next number</h2>
                         <label>
-                                <b>How much Ether do you want to bet? <input className="bet-input" ref="ether-bet" type="number" placeholder={this.state.minimumBet} onChange={(e) => this.setState({currentBet: e.target.value})}/></b> ether
+                                <b>Stake 1ETH or more to participate.</b>
+                                <br/>
+                                <b>How much Ether do you want to bet?  <input className="bet-input" ref="ether-bet" type="number" placeholder={this.state.minimumBet} onChange={(e) => this.setState({currentBet: e.target.value})}/></b> ether
                                 <br/>
                         </label>
                                     <ul ref="numbers">
