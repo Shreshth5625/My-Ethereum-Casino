@@ -24,6 +24,7 @@ class App extends Component {
       console.log(accounts, "accounts");
       // Get the contract instance.
       const networkId = await web3.eth.net.getId();
+      console.log(networkId,"networkId");
       const deployedNetwork = MyCasinoContract.networks[networkId];
       console.log(deployedNetwork, "test");
       const instance = new web3.eth.Contract(
